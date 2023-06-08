@@ -1,7 +1,8 @@
 
 # Roie Ivri - Full Stack Developer 
-Hello There ! ,  I am Full Stack Developer , I Graduated a year and a hlf long course for Full Stack Development and also taking classes in the Open University at a low pace out of intrest  , i have alot of passion to solving real problems.
+m an enthusiastic Full Stack Developer, passionate about solving real-world problems through technology. I embarked on an exciting journey in Full Stack Development a year and a half ago, completing an intensive course that equipped me with a diverse range of skills. Additionally, I'm currently enrolled in the Open University, where I continue to expand my knowledge at my own pace out of sheer interest and curiosity.
 
+My dedication to Full Stack Development stems from my deep-rooted passion for building innovative solutions. I believe in the transformative power of technology and its ability to make a positive impact in people's lives. Whether it's creating seamless user experiences or tackling complex backend challenges, I'm always eager to dive into new projects that challenge me and push me to grow.
 ## Areas/Technologies I Am Comfortable in 
 <ul style="display: flex; margin: 0; padding: 0;">
   <li style="margin-right: 10px;">MicroServices</li>
