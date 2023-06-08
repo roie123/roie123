@@ -1,4 +1,3 @@
-   <img width="100%" src='https://github.com/roie123/roie123/assets/101359063/99847a34-eebd-4048-8c18-f2365c88558e' alt="">
 
 # Roie Ivri - Full Stack Developer 
 Hello There ! ,  I am Full Stack Developer , I Graduated a year and a hlf long course for Full Stack Development and also taking classes in the Open University at a low pace out of intrest  , i have alot of passion to solving real problems.
@@ -34,3 +33,4 @@ Hello There ! ,  I am Full Stack Developer , I Graduated a year and a hlf long c
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
 </div>
+   <img width="100%" src='https://github.com/roie123/roie123/assets/101359063/99847a34-eebd-4048-8c18-f2365c88558e' alt="">
