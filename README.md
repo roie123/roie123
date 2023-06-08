@@ -3,6 +3,15 @@
 # Roie Ivri - Full Stack Developer 
 Hello There ! ,  I am Full Stack Developer , I Graduated a year and a hlf long course for Full Stack Development and also taking classes in the Open University at a low pace out of intrest  , i have alot of passion to solving real problems.
 
+## Areas/Technologies I Am Comfortable in 
+<ul style="display: flex; margin: 0; padding: 0;">
+  <li style="margin-right: 10px;">MicroServices</li>
+  <li style="margin-right: 10px;">Rest API's</li>
+  <li style="margin-right: 10px;">Functional Programming</li>
+  <li style="margin-right: 10px;">Relational Databases</li>
+  <li   style="margin-right: 10px;" >Stored Procedures</li>
+</ul>
+
 
 ## My Current Tech Stack (it's just keeps on growing...)
 <div align="center">
